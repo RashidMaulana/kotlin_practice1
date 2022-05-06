@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">practice_1</string>
+    <string name="labelIdentitas">19523030 - Rashid Adani Maulana J.</string>
+    <string name="labelAngka">0</string>
+    <string name="labelTambah1">+1</string>
+    <string name="labelTambah2">+2</string>
+    <string name="labelTambah5">+5</string>
+    <string name="labelKurang1">-1</string>
+    <string name="labelKurang2">-2</string>
+    <string name="labelKurang5">-5</string>
+    <string name="labelReset">Reset</string>
+</resources>
